@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#4F46E5"/>
+
+  <!-- Chat bubble -->
+
+<path d="M60 70 h80 a10 10 0 0 1 10 10 v30 a10 10 0 0 1 -10 10 h-40 l-20 15 v-15 h-20 a10 10 0 0 1 -10 -10 v-30 a10 10 0 0 1 10 -10 z"
+     fill="white"/>
+
+  <!-- Text -->
+
+  <text x="100" y="105" text-anchor="middle" font-size="18" fill="#4F46E5" font-family="Arial, sans-serif" font-weight="bold">
+    HeyChat
+  </text>
+</svg>
