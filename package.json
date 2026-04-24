@@ -1,0 +1,21 @@
+{
+  "name": "allchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
+    "start":"npm run start --prefix Backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajkumarsikhar/AllChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajkumarsikhar/AllChat/issues"
+  },
+  "homepage": "https://github.com/surajkumarsikhar/AllChat#readme"
+}
